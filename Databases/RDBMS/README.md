@@ -45,6 +45,6 @@
 
 ## Additional Resources
 
-- [Database Normalizing Basics] (http://databases.about.com/od/specificproducts/a/normalization.htm)
-- [A Database "Best" Practices] (http://www.agiledata.org/essays/dataNormalization.html)
-- [pg-promise] (https://www.npmjs.com/package/pg-promise)
+- [Database Normalizing Basics](http://databases.about.com/od/specificproducts/a/normalization.htm)
+- [A Database "Best" Practices](http://www.agiledata.org/essays/dataNormalization.html)
+- [pg-promise](https://www.npmjs.com/package/pg-promise)

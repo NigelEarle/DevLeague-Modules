@@ -1,6 +1,6 @@
-# Algorithms
+# Search
 
-## Suggested order of delivery
+## Suggested order of delivery=
 1. Intro (whiteboard)
 1. [Slideshow](https://github.com/DevLeague/slides-Intro-to-OOP/)
 1. [JS Constructors](https://github.com/DevLeague/js-constructors)
@@ -32,14 +32,12 @@
     - how do we know that a student has obtained proper training?
 
 ## Slides
-1. See sub categories for slides
+1. [Slideshow](https://github.com/DevLeague/slides-Intro-to-OOP/)
 
 ## Work
-- See sub categories for assignemnts
+- Imelement a breadth-first search algorithm and a The depth-first search algorithm in JavaScript from scracth.
 
 ## Additional Resources
-[Khan Academy Algorithms Couse](https://www.khanacademy.org/computing/computer-science/algorithms)
-[Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
-[Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
-[CS Field Guide](http://www.csfieldguide.org.nz/en/index.html)
-[Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+[Breadth-first Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+[The breadth-first search algorithm](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
+[Depth-first Search](https://en.wikipedia.org/wiki/Depth-first_search)

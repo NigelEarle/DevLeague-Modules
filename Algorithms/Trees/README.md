@@ -1,6 +1,6 @@
-# Algorithms
+# Trees
 
-## Suggested order of delivery
+## Suggested order of delivery=
 1. Intro (whiteboard)
 1. [Slideshow](https://github.com/DevLeague/slides-Intro-to-OOP/)
 1. [JS Constructors](https://github.com/DevLeague/js-constructors)
@@ -32,14 +32,13 @@
     - how do we know that a student has obtained proper training?
 
 ## Slides
-1. See sub categories for slides
+1. [Slideshow](https://github.com/DevLeague/slides-Intro-to-OOP/)
 
 ## Work
-- See sub categories for assignemnts
+1. [Recursive Tree Traversal](https://github.com/devleague/recursive_tree_traversal)
+1. [Sorting Binary Trees](https://github.com/devleague/Sorting-B-Tree)
 
 ## Additional Resources
-[Khan Academy Algorithms Couse](https://www.khanacademy.org/computing/computer-science/algorithms)
-[Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
-[Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
-[CS Field Guide](http://www.csfieldguide.org.nz/en/index.html)
-[Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+[Tree](https://en.wikipedia.org/wiki/Tree_(data_structure))
+[b-Tree - Wikipedia](https://en.wikipedia.org/wiki/B-tree)
+[Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
