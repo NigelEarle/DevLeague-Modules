@@ -41,9 +41,9 @@ their solution in small groups
 1. [Sorting Algorithms Assignment](https://github.com/devleague/DevLeague-Modules/blob/master/Algorithms/Sorting/SORTING.md)
 
 ## Additional Resources
-1. [Quick sort](https://en.wikipedia.org/wiki/Quicksort)
-1. [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
-1. [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)
-1. [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
-1. [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
-1. [Big O](https://en.wikipedia.org/wiki/Big_O#In_mathematics_and_computing)
+* [Quick sort](https://en.wikipedia.org/wiki/Quicksort)
+* [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
+* [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)
+* [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
+* [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+* [Big O](https://en.wikipedia.org/wiki/Big_O#In_mathematics_and_computing)

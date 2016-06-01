@@ -36,9 +36,9 @@ Either way, it is strongly recommended that students understand the important tr
 1. Imelement a breadth-first search algorithm and a The depth-first search algorithm in JavaScript from scracth.
 
 ## Additional Resources
-[Tree](https://en.wikipedia.org/wiki/Tree_(data_structure))
-[b-Tree - Wikipedia](https://en.wikipedia.org/wiki/B-tree)
-[Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
-[Breadth-first Search](https://en.wikipedia.org/wiki/Breadth-first_search)
-[The breadth-first search algorithm](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
-[Depth-first Search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure))
+* [b-Tree - Wikipedia](https://en.wikipedia.org/wiki/B-tree)
+* [Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
+* [Breadth-first Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [The breadth-first search algorithm](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
+* [Depth-first Search](https://en.wikipedia.org/wiki/Depth-first_search)
