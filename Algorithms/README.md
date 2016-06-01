@@ -7,7 +7,7 @@
 - See sub categories for assignemnts
 
 ## Additional Resources
-[Khan Academy Algorithms Couse](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [Khan Academy Algorithms Couse](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 * [CS Field Guide](http://www.csfieldguide.org.nz/en/index.html)
