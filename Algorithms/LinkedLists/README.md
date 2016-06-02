@@ -17,7 +17,7 @@
 - Linked List Concepts [about]
   - Singly linked list
   - Doubly Linked List
-  -- Circular Linked List
+  - Circular Linked List
 
 ## Acceptance
 - Students have all tests passing on their linked list implementation
