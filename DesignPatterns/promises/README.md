@@ -21,11 +21,9 @@
 
 1. [Slideshow](https://github.com/DevLeague/slides-Intro-to-OOP/)
 
-
 ## Work
 
 - The students are going to make first application with a real database, by adding a PSQL database to your Articles Products and Express, Oh My! project using promises and PSQL. [Assignment](https://gist.github.com/JoeKarlsson1/495e9f002737e1693ddf)
-
 
 ## Additional Resources
 
