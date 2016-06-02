@@ -33,5 +33,5 @@
 1. [JS Linked Lists](https://github.com/devleague/js-linked-list)
 
 ## Additional Resources
-[Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
-[Khan Academy Algorithms Couse](https://en.wikipedia.org/wiki/Linked_list)
+* [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
+* [Khan Academy Algorithms Couse](https://en.wikipedia.org/wiki/Linked_list)
