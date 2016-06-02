@@ -4,6 +4,7 @@
 1. See sub categories for slides
 
 ## Work
+- [Abstract Data Types](https://github.com/devleague/abstract-data-types)
 - See sub categories for assignemnts
 
 ## Additional Resources
