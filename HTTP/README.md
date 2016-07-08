@@ -14,7 +14,7 @@
 - Event Driven Architecture [Grok]
 - Ports [Grok]
 - HTTP [Grok]
-- XHR [GROK]
+- XHR [Grok]
 - Client Server Communication [Grok]
 - Raw Socket Connections [Teach]
 - Streams [About]
