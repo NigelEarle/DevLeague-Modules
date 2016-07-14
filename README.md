@@ -78,5 +78,7 @@ use Remark ?
 
 to present, use **ngrok** then distribute the url
 
+# DevLeague Topics
 
-
+the "Grok" list:
+https://gist.github.com/theRemix/0852e5f2ce93851d691cf0411a4f451b
