@@ -1,5 +1,11 @@
 # DevLeague Modules
 
+## WIP
+
+Modules that are prepended with a `-` are ready to be formatted.
+
+Modules that are prepended with a `_` are *empty*.
+
 ## Module Structure
 
 Each module may contain a sub-module, in which case, only contains directories for each sub-module
