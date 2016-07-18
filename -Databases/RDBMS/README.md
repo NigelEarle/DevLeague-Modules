@@ -4,6 +4,7 @@
 
 1. Intro (whiteboard)
 1. [Slideshow](https://github.com/devleague/slides-sql)
+1. [Install Postgres](https://gist.github.com/sgnl/609557ebacd3378f3b72)
 1. [Automotive Index](https://github.com/devleague/Automotive-Index)
 1. Database Normalization (talk/whiteboard)
 1. [Denormal Automotives](https://github.com/devleague/Denormal-Automotives)
@@ -45,6 +46,7 @@
 
 ## Additional Resources
 
+- [Install Postgres](https://gist.github.com/sgnl/609557ebacd3378f3b72)
 - [Database Normalizing Basics](http://databases.about.com/od/specificproducts/a/normalization.htm)
 - [A Database "Best" Practices](http://www.agiledata.org/essays/dataNormalization.html)
 - [pg-promise](https://www.npmjs.com/package/pg-promise)
