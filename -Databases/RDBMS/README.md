@@ -8,6 +8,7 @@
 1. [Automotive Index](https://github.com/devleague/Automotive-Index)
 1. Database Normalization (talk/whiteboard)
 1. [Denormal Automotives](https://github.com/devleague/Denormal-Automotives)
+1. Whiteboard UML Relatationship diagrams in small groups
 1. [Has Many Relationships](https://github.com/devleague/Has-Many-Relationships)
 1. [Write a blog post about the different kinds of data types in PSQL](https://gist.github.com/jaywon/80b3ceb78c2791c30950)
 1. Check in, understanding of normalization, common SQL commands, UML diagrams
