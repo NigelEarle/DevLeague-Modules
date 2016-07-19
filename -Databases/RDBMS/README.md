@@ -5,6 +5,7 @@
 1. Intro (whiteboard)
 1. [Slideshow](https://github.com/devleague/slides-sql)
 1. [Install Postgres](https://gist.github.com/sgnl/609557ebacd3378f3b72)
+1. [SELECT todo FROM list](https://github.com/devleague/SELECT-todo-FROM-list)
 1. [Automotive Index](https://github.com/devleague/Automotive-Index)
 1. Database Normalization (talk/whiteboard)
 1. [Denormal Automotives](https://github.com/devleague/Denormal-Automotives)
