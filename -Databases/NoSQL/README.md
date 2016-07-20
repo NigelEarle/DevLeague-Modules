@@ -1,41 +1,79 @@
 # NoSQL Databases
 
-## Suggested order of delivery
+## Pre-Requisites
+This material should come after **ORM's** and **RDBMS's** and before  *??*
 
-1. Intro NoSQl vs Relational Databases (whiteboard)
-1. [Intro to NoSQL](https://github.com/devleague/slides-nosql)
-1. [MongoDB Practice](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
-1. Check in - Have the students get in small groups and whiteboard the difference between NoSQL and SQL to each other
-1. Refactor an assignment and add a NoSQL DB using Mongoose
-  * Pixel Painter works well
-1. verify (acceptance)
+## Class Format / Time to Allow for Subject
+This material usually takes 1/2 day to introduce and up to 1.5 days worth of exercises and reinforcement
 
-## Topics
+## Topics & Expected Outcomes
 
-- NoSQl vs Relational Databases [grok]
-- MongoDB Concepts [teach]
-  - Mongo shell
-  - ObjectID
-  - Cursors
-  - Queries
-  - Updates
-  - Updates without overwriting
+#### Levels of Understanding
+Students will have *one of three* levels of understanding about each topic upon completion of this module.  
+- **grok**: fully understand the topic in order to replicate code, communicate, and explain concepts without referring to any notes.  
+- **explain**: understand enough about the topic to describe concepts without referring to notes.  
+- **know about**: understand enough to look up further documentation when asked about the subject.
 
-## Acceptance
+---  
 
-- Students can explain the difference between NoSQL and SQL to each other
-- Students can
+#### NoSQL Databases
+- Students should **fully grok** NoSql databases
+- Students should **fully grok** the difference between NoSql and RDBMS's.
 
-## Slides
+#### MongoDB
+- Students should explain how to start the MongoDB server locally and get into the MongoDB shell
+- Students should understand databases, collections and documents in MongoDB
+- Students should understand the core concepts of MongoDB
+    - ObjectID
+    - Cursors
+    - Queries
+    - Updates
+    - Updates without overwriting
 
-1. [Intro to NoSQL](https://github.com/devleague/slides-nosql)
+# Suggested Format for Delivery
+The following format is meant to be a guideline for effective delivery. Instructions can present material in another way if it is more effective for the students.
 
-## Work
+1. Introduce NoSQL vs Relational Databases(white board)
+1. Present NoSQL Slide Deck: [https://github.com/devleague/slides-nosql](https://github.com/devleague/slides-nosql)
+1. Assign MongoDB practice: [https://gist.github.com/theRemix/7305403e1ab6fc8674f0](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
+1. Check in on students - assign small groups and whiteboard differences between NoSQL and Relational databases to one another
+1. Refactor PixelPainter assignment by adding NoSQL database using Mongoose
+1. Verify
 
-1. [MongoDB Practice](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
+# Slides & Examples
 
-## Additional Resources
+#### NoSQL
+- Link: [https://github.com/devleague/slides-nosql](https://github.com/devleague/slides-nosql)
+- Time Needed To Present: < 30 minutes
+- Type: **Slideshow**
 
-- [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
-- [SQL vs. NoSQL Databases: What’s the Difference?](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference)
-- [No SQL vs SQL](http://www.nosql-vs-sql.com/)
+# Exercises & Projects
+The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
+
+#### MongoDB Practice
+- Gist: [https://gist.github.com/theRemix/7305403e1ab6fc8674f0](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
+- Average Time Alotted: 3 sessions
+- Completed Example: [#](http://google.com)
+- Concepts Practice: *MongoDB Dynamic Queries* 
+
+# Additional Resources
+
+#### NoSQL Reference
+- Link: [http://nosql-database.org/](http://nosql-database.org/)
+- Concepts: NoSQL DB reference
+- Notes: Extensive NoSQL DB reference with small explanation about each one
+
+#### NoSQL Wiki
+- Link: [https://en.wikipedia.org/wiki/NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+- Concepts: NoSQL Wikipedia Page
+- Notes: In depth history explantation of NoSQL databases
+
+#### Mongooose
+- Link: [http://mongoosejs.com/](http://mongoosejs.com/)
+- Concepts: Mongoosejs ODM home
+- Notes: Mongoosejs ODM home with quickstart example and documentation
+
+#### MongoDB Documentation
+- Link: [https://docs.mongodb.com/manual/](https://docs.mongodb.com/manual/)
+- Concepts: MongoDB Documentation
+- Notes: MongoDB Documentation
