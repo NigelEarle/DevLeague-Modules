@@ -24,7 +24,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 #### Relationships
 - Students should grok UML diagrams
-- Students should understand Normalizing database tables
+- Students should understand normalizing database tables
     - 3 - 4 forms of database normalization
 - Students should understand `one to one`, `one to many`, `many to many` and `many to one` relationships
 
@@ -62,7 +62,54 @@ The following format is meant to be a guideline for effective delivery. Instruct
 - Concepts Covered: *Promises*
 
 # Exercises & Projects
-`w.i.p.`
+The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
+
+#### SELECT-todo-FROM-list
+- Repository: [https://github.com/devleague/SELECT-todo-FROM-list](https://github.com/devleague/SELECT-todo-FROM-list)
+- Average Time Alotted: 2 sessions
+- Individual or Group: Individual Exercise
+- Completed Example: [#](https://google.com)
+- Concepts Practiced: *PostgreSQL shell commands, Create database and user, Basic SQL queries -- select, insert, update, alter* 
+
+#### Automotive-Index
+- Repository: [https://github.com/devleague/Automotive-Index](https://github.com/devleague/Automotive-Index)
+- Average Time Alotted: 2 sessions
+- Individual or Group: Individual Exercise
+- Completed Example: [#](https://google.com)
+- Concepts Practiced: *Query large data sets, Indexing and performance*
+
+#### Denormal-Automotive
+- Repository: [https://github.com/devleague/Denormal-Automotives](https://github.com/devleague/Denormal-Automotives)
+- Average Time Alotted: 2 sessions
+- Individual or Group: Individual Exercise
+- Completed Example: [#](https://google.com)
+- Concepts Practiced: *Query large data sets, Normalizing datasets, JOIN statements*
+
+#### Has-Many-Relationships
+- Repository: [https://github.com/devleague/Has-Many-Relationships](https://github.com/devleague/Has-Many-Relationships)
+- Average Time Alotted: 2 sessions
+- Individual or Group: Individual Exercise
+- Completed Example: [#](https://google.com)
+- Concepts Practiced: *Relationships between tables(one-to-many, many-to-many etc.), Setting foriegn key on relational table, JOIN statements*
 
 # Additional Resources
-`w.i.p.`
+
+#### RDBMS
+- Link: [https://en.wikipedia.org/wiki/Relational_database_management_system](https://en.wikipedia.org/wiki/Relational_database_management_system)
+- Concepts: RDBMS history and explanation
+- Notes: High level overview of RDBMS's
+
+#### PostgreSQL
+- Link: [https://www.postgresql.org/](https://www.postgresql.org/)
+- Concepts: PostgreSQL home
+- Notes: Postgres docs for version documentation, download links, about postgres, etc.
+
+#### Normalization
+- Link: [https://en.wikipedia.org/wiki/Database_normalization](https://en.wikipedia.org/wiki/Database_normalization)
+- Concepts: Database normalization
+- Notes: In depth look at database normalization. First, second and third normal form links included
+
+#### JOIN Statements
+- Link: [http://www.sql-join.com/](http://www.sql-join.com/)
+- Concepts: SQL JOIN Statements
+- Notes: Explanation of the different types of JOIN statements and how to use them
