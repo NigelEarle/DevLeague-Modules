@@ -4,7 +4,7 @@
 This material should come after **RDBMS** and before **NoSQL**. Students should already be familiar with **dynamic database queries** and **expressjs**.
 
 ## Class Format / Time to Allow for Subject 
-This material usually takes .5 day(s) to introduce and 1.5 day(s) of exercises and reinforcement.  
+This material usually takes .5 day(s) to introduce and 2 day(s) of exercises and reinforcement.  
 
 # Topics & Expected Outcomes
 
