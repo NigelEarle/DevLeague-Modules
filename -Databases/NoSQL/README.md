@@ -4,7 +4,7 @@
 This material should come after **ORM's** and **RDBMS's** and before  *??*
 
 ## Class Format / Time to Allow for Subject
-This material usually takes 1/2 day to introduce and up to 1.5 days worth of exercises and reinforcement
+This material usually takes 0.5 day(s) to introduce and up to 1.5 day(s) worth of exercises and reinforcement
 
 ## Topics & Expected Outcomes
 
@@ -17,7 +17,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 ---  
 
 #### NoSQL Databases
-- Students should **fully grok** NoSql databases
+- Students should **fully grok** NoSQL databases
 - Students should **fully grok** the difference between NoSql and RDBMS's.
 
 #### MongoDB
@@ -34,10 +34,10 @@ Students will have *one of three* levels of understanding about each topic upon 
 The following format is meant to be a guideline for effective delivery. Instructions can present material in another way if it is more effective for the students.
 
 1. Introduce NoSQL vs Relational Databases(white board)
-1. Present NoSQL Slide Deck: [https://github.com/devleague/slides-nosql](https://github.com/devleague/slides-nosql)
-1. Assign MongoDB practice: [https://gist.github.com/theRemix/7305403e1ab6fc8674f0](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
+1. Present **NoSQL** Slide Deck: [https://github.com/devleague/slides-nosql](https://github.com/devleague/slides-nosql)
+1. Assign **MongoDB practice**: [https://gist.github.com/theRemix/7305403e1ab6fc8674f0](https://gist.github.com/theRemix/7305403e1ab6fc8674f0)
 1. Check in on students - assign small groups and whiteboard differences between NoSQL and Relational databases to one another
-1. Refactor PixelPainter assignment by adding NoSQL database using Mongoose
+1. Refactor **PixelPainter** assignment by adding NoSQL database using Mongoose
 1. Verify
 
 # Slides & Examples
