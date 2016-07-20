@@ -30,6 +30,7 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
+
 1. Introduce RDBMS; PostgreSQL
 1. Present **SQL Slides**: [https://github.com/devleague/slides-sql](https://github.com/devleague/slides-sql)
 1. Install **PostgreSQL**: [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
