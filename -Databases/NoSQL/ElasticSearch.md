@@ -69,6 +69,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Introduce utilities and helper libraries, though start with raw es. _do not use querybuilders at all during the exercise, just introduce it so that they may be used in future projects._
 1. Students should practice lots of reading and navigating the well-written documentation.
 1. Work on [Springy Findeon Exercise](https://github.com/devleague/Springy-Findeon)
+1. Reminder: after students import the data, the server will take time (about a minute) to index the documents, so immediate queries may not include the new data.
 
 # Exercises & Projects
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
