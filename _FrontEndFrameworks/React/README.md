@@ -18,64 +18,63 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
-- MVC
-- SPAs
+#### Model View Controller [MVC]
+- Students should be able to **grok** "Model View Controller."
+- *Recommend: Whiteboard Example to explain "MVC."* They should also be able to explaing where the model, the view, and the controller is on any of their projects
 
-- React Basics
-  - Component and state
-  -Props
-  - Render
-  - getInitialState
-  - propTypes
-- React Component Specs and Lifecycle
-  - Lifecycle
-    - componentWillMount
-    - componentDidMount
-    - componentWillReceiveProps
-    - shouldComponentUpdate
-    - componentWillUpdate
-    - componentDidUpdate
-    - componentWillUnmount
-- JSX
-- Webpack
-- ImmutableJS
-- Redux
-  - Redux Basics
-    - Actions
-    - Reducers
-    - Store
-    - Data Flow
-  - Advanced Redux
-    - Async Redux
-    - Redux Middleware
+#### Single Page Applications [SPAs]
+- Students should be able to **grok** what a "SPAs" is.
 
-#### Encapsulation
-- Students should be able to **explain** "Encapsulation."
-- *Recommend: Whiteboard Example to explain "Encapsulation."*
+#### React
+- Students should be able to **explain** "React," adn the types of projects it's useful for.
 
-#### Access Modifiers
-- Students should be able to **explain** "Access Modifiers."
-- *Recommend: Whiteboard Example to explain "Access Modifiers."*
+#### React Components
+- Students should be able to **explain** "React Components."
+- *Recommend: Whiteboard and example React application and it's components. They should be able to explain how to pass data between the components.
 
-#### Accessors
-- Students should be able to **explain** "Accessors."
-- *Recommend: Whiteboard Example to explain "Accessors."*
+#### React State
+- Students should be able to **explain** "React State."
+- *Recommend: They should be able to explain the difference between State and Props
 
-#### Interfaces
-- Students should be able to **explain** "Interfaces."
-- *Recommend: Whiteboard Example to explain "Interfaces."*
+#### React Proptypes
+- Students should be able to **explain** "React Proptypes."
 
-#### Polymorphism
-- Students should **know about** "Polymorphism."
-- *Recommend: Whiteboard Example to explain "Polymorphism."*
+#### JSX
+- Students should be able to **explain** "JSX" and why it is used.
 
-#### Multiple Inheritence
-- Students should **know about** "Multiple Inheritence."
-- *Recommend: Whiteboard Example to explain "Multiple Inheritence."*
+#### React Lifecycle
+- Students should be able to **explain** "React Lifecycle."
+- *Recommend: They should be able to explain the componentWillMount, componentDidMount, componentWillReceiveProps, shouldComponentUpdate, componentWillUpdate, componentDidUpdate, and componentWillUnmount
 
-#### OOP Patterns
-- Students should be able to explain advantages of adopting an Object Oriented pattern.
-- Students should be able to determine when Object Oriented patterns are suitable.
+#### Webpack
+- Students should be able to **explain** "Webpack" and why it is used.
+
+#### ImmutableJS
+- Students should be able to **know about** "ImmutableJS."
+- *Recommend: They should be able to explain the the advantage of using ImmutableJS and Redux.
+
+#### Redux
+- Students should be able to **explain** "Redux."
+- *Recommend: They should be able to explain the the advantage of using Redux and React.
+
+#### Redux Actions
+- Students should be able to **explain** "Redux Actions" and why it is used.
+
+#### Redux Reducers
+- Students should be able to **explain** "Redux Reducers" and why it is used.
+
+#### Redux Store
+- Students should be able to **explain** "Redux Stores" and why they are used.
+
+#### Redux Data Flow
+- Students should be able to **explain** "Redux Data Flow" and why it is used.
+- *Recommend: Whiteboard Redux unidirectional dataflow
+
+#### Async Redux
+- Students should be able to **explain** "Async Redux" and why it is used.
+
+#### Redux Middleware
+- Students should be able to **explain** "Redux Middleware" and why they are used.
 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
