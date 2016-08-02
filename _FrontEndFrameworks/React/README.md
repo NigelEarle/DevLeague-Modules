@@ -1,7 +1,5 @@
 # Intro to React
 
-# Object Oriented Programming
-
 ## Pre-Requisites
 This material should come after **students have covered the full-stack**. Frameworks are the last unit to be coered before the final projects. React and Angular can be covered in any order, but I would recommend covering Angular first, as it is a full MVC framwork - it helps put React's place in a web apps stack into perspective better.
 
