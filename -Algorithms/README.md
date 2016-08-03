@@ -8,6 +8,7 @@
 - See sub categories for assignemnts
 
 ## Additional Resources
+* [Data Structures and Algorithms implemented in JavaScript](https://github.com/JoeKarlsson1/data-structures)
 * [Khan Academy Algorithms Couse](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 * [CS Field Guide](http://www.csfieldguide.org.nz/en/index.html)
