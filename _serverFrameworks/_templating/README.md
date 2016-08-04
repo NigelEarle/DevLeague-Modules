@@ -16,15 +16,8 @@ Students will have *one of three* levels of understanding about each topic upon 
 
 ---
 
-- Linked Lists General [grok]
-- Linked Lists Methods [teach]
-  - Create Node
-  - Delete Node
-  - Find Node
-- Linked List Concepts [about]
-  - Singly linked list
-  - Doubly Linked List
-  - Circular Linked List
+- Templating Engine Basics [grok]
+- Jade Basics [about]
 
 # Suggested Format for Delivery
 The following format is meant to be a guideline for effective delivery. Instructors can present material in another way if it is more effective for the students.
@@ -32,7 +25,7 @@ The following format is meant to be a guideline for effective delivery. Instruct
 1. Introduce Template Engines (talk)
 1. Present **Express Template Engines** Slideshow: [Template Engine Slideshow](http://slides.com/joecarlson/templating#/)
 1. Present **Pug Basics Slide Show** Slideshow: [Pug Basics Slideshow TODO](http://TODO)
-1. Assign **Roll Your Own Template Engine** mini-assignment: [Roll Your Own Template Engine](TODO.com)
+1. Assign **Roll Your Own Template Engine** mini-assignment: [Roll Your Own Template Engine](https://github.com/devleague/DevLeague-Modules/blob/master/_serverFrameworks/_templating/expressTemplateAssignment.md)
 1. Assign **Articles, Products, and Express**: [Articles, Products, and Express](https://github.com/devleague/articles-products-and-express)
 1. Assign **Express Gallery**: [Express Gallery](https://github.com/devleague/express-gallery)
 1. Check in with students and their understanding of **template engines**, and **Pug** (talk)
@@ -60,12 +53,28 @@ The following format is meant to be a guideline for effective delivery. Instruct
 # Exercises & Projects
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
 
-#### Linked List Generator
-- Repository: [JS Linked Lists](https://github.com/devleague/js-linked-list)
-- Average Time Alotted: 4 sessions
-- Individual or Group: Individual Exercise
-- Completed Example: [Completed Linked List](https://github.com/JoeKarlsson1/data-structures/blob/master/linked-list/linkedList.js)
-- Concepts Practiced: *Linked List Basics*
+#### Roll Your Own Template Engine
+- Repository: [Roll Your Own Template Engine](https://github.com/devleague/DevLeague-Modules/blob/master/_serverFrameworks/_templating/expressTemplateAssignment.md)
+- Average Time Alotted: 1 sessions
+- Individual or Group: Pair Programming Exercise
+- Completed Example: [Roll Your Own Template Engine Solution](https://github.com/devleague/DevLeague-Modules/blob/master/_serverFrameworks/_templating/expressTemplateAssignmentSolution.md)
+- Concepts Practiced: *Express Templating Basics*
+
+#### Articles, Products, and Express
+- Repository: [Articles, Products, and Express](https://github.com/devleague/articles-products-and-express)
+- Average Time Alotted: 9 sessions
+- Individual or Group: Pair Programming Exercise
+- Completed Example: [Articles, Products, and Express Solution](https://github.com/taylorak/articles-products-and-express)
+- Concepts Practiced: *Express Templating Basics*, and *Express Routes*
+- Notes: Students will use a non-persistant datastore, once we finish the SQL Basics unit, come back to this assignment and refactor the model to use pg-promise to persist the data.
+
+#### Express Gallery
+- Repository: [Express Gallery](https://github.com/devleague/express-gallery)
+- Average Time Alotted: 12 sessions
+- Individual or Group: Pair Programming Exercise
+- Completed Example: [Express Gallery Solution](https://github.com/JoeKarlsson1/express-gallery)
+- Concepts Practiced: *Express Templating Basics*, *Express Routes*, *Databases*, *Authentication*, *cookies*, *sessions*, *encryption*
+- Notes: Come back to this assignment once the students have finished the database/SQL module
 
 # Additional Resources
 
