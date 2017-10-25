@@ -1,4 +1,4 @@
-# Object Relational Mapping (Knex)
+# Object Relational Mapping / Knex Library
 
 ## Pre-Requisites
 This material should come after **RDBMS** and before **Bookshelf** and **NoSQL**. Students should already be familiar with **dynamic database queries** and **expressjs**.
