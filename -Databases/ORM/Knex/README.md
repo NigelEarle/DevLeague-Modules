@@ -34,8 +34,6 @@ The following format is meant to be a guideline for effective delivery. Instruct
 _(Gist WIP)_[https://gist.github.com/NigelEarle/80150ff1c50031e59b872baf0e474977](https://gist.github.com/NigelEarle/80150ff1c50031e59b872baf0e474977)
 1. Release **Knex.js Migrations and Seeding** (Live-code?): 
 _(Gist WIP)_[https://gist.github.com/NigelEarle/80150ff1c50031e59b872baf0e474977](https://gist.github.com/NigelEarle/80150ff1c50031e59b872baf0e474977)
-1. Assign **SELECT-todo-FROM-List**:
-[https://github.com/devleague/SELECT-todo-FROM-list](https://github.com/devleague/SELECT-todo-FROM-list) _(Using only raw queries with knex.js)*_
 1. Integrate knex.js into **Articles-Products-Express**:
 [https://github.com/devleague/articles-products-and-express](https://github.com/devleague/articles-products-and-express) _(Using built in knex.js methods)_
 
