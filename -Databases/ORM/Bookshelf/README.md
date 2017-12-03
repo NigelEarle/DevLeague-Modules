@@ -31,7 +31,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
 
 1. Introduce ORM (whiteboard)
 1. Present **ORM Slide Deck**: [https://github.com/devleague/slides-orm](https://github.com/devleague/slides-orm)
-1. Live-code **Bookshelf Models and Queries** (Live-code / Gist?):
+1. Live-code **Knex Bookshelf example** repository:
+[https://github.com/NigelEarle/knex-bookshelf-example](https://github.com/NigelEarle/knex-bookshelf-example)
 1. Assign **Express-Gallery**:
 [https://github.com/devleague/express-gallery](https://github.com/devleague/express-gallery)
 1. Have students to draw up associations for various data schema in small groups
@@ -44,8 +45,8 @@ The following format is meant to be a guideline for effective delivery. Instruct
 - Time Needed to Present: <= 30 minutes   
 - Type: **Slideshow**
 
-#### (Gist) Livecode
-- Link: _wip_ [https://gist.github.com/NigelEarle/3ed601d3f9cdc9135990feee41f42316](https://gist.github.com/NigelEarle/3ed601d3f9cdc9135990feee41f42316)
+#### Knex bookshelf example repo (live-code)
+- Link: [https://github.com/NigelEarle/knex-bookshelf-example](https://github.com/NigelEarle/knex-bookshelf-example)
 - Time Needed to Present: 30min - 1hr
 - Type: **Livecode**
 
