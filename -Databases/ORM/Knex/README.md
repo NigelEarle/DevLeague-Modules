@@ -59,18 +59,12 @@ The following format is meant to be a guideline for effective delivery. Instruct
 # Exercises & Projects
 The following exercises and projects state an average time alotted. A session is about 3 hours. There are 3 sessions in a day: (1) After the morning challenge up to lunch, (2) after lunch up to dinner, (3) after dinner until the end of class.
 
-#### SELECT-todo-FROM-list
-- Repository: [https://github.com/devleague/SELECT-todo-FROM-list](https://github.com/devleague/SELECT-todo-FROM-list)
-- Average Time Alotted: 3 sessions
-- Individual or Group: Individual Exercise
-- Completed Example: [#]()
-- Concepts Practiced: **SQL**, **Knex.js**, **Dynamic Database Queries**, **Promises**
 
 #### Articles-Products-Express
 - Repository: [https://github.com/devleague/articles-products-and-express](https://github.com/devleague/articles-products-and-express)
 - Average Time Alotted: 6 session
 - Individual or Group Exercise: Individual
-- Completed Example: [#]()
+- Completed Example (Knex): [https://github.com/NigelEarle/articles-products-and-express/tree/knex-solutions](https://github.com/NigelEarle/articles-products-and-express/tree/knex-solutions)
 - Concepts Practiced: **SQL**, **Knex.js**, **Dyanmic Database Queries**, **Express**, **Promises**
 - Notes: Integrate Knex.js into existing DB layer of exercises.
 
@@ -78,7 +72,7 @@ The following exercises and projects state an average time alotted. A session is
 - Repository: [https://github.com/devleague/knex-shopping](https://github.com/devleague/knex-shopping)
 - Average Time Alotted: 6 sessions
 - Individual or group: Individual
-- Completed Example: [#]()
+- Completed Example: [https://github.com/NigelEarle/knex-shopping/tree/solution](https://github.com/NigelEarle/knex-shopping/tree/solution)
 - Concepts Practiced:  **SQL**, **Knex.js**, **Dyanmic Database Queries**, **Express**, **Promises**
 
 # Additional Resources
